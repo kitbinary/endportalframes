@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "endportalcraft",
+  "version": "1.0.0",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "End Portal Craft",
+  "description": "Allows you to craft an end portal frame via a warden core.",
   "authors": [
-    "Me!"
+    "kitbinary"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://kitbinary.net/",
+    "sources": "https://github.com/kitbinary/endportalcraft"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/endportalcraft/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.kitbinary.endportalcraft.EndPortalCraft"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "endportalcraft.mixins.json"
   ],
 
   "depends": {

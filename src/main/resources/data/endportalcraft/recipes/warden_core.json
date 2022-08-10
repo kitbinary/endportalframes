@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "EEE",
+      "CWC",
+      "CCC"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:cobblestone"
+      },
+      "E": {
+        "item": "minecraft:echo_shard"
+      },
+      "W": {
+        "item": "endportalcraft:wardencore"
+      }
+    },
+    "result": {
+      "item": "minecraft:end_portal_frame",
+      "count": 1
+    }
+  }
