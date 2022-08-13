@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# End Portal Frames
 
-## Setup
+Requires Fabric API
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Craft end portal frames using a Warden Core, dropped by Wardens 100% of the time. This is then used with the following recipe, to make 3 end portal frames.
