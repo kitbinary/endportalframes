@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "endportalcraft",
-  "version": "1.0.0",
+  "version": "1.1.0",
 
   "name": "End Portal Craft",
   "description": "Allows you to craft an end portal frame via a warden core.",
